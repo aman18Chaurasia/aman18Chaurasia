@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:aman007chaurasia@gmail.com"><img src="https://img.shields.io/badge/Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  <a href="www.linkedin.com/in/aman-chaurasia-91443b263"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/aman-chaurasia-91443b263/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://aman18-07chaurasia.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
   <a href="https://github.com/aman18Chaurasia?tab=repositories"><img src="https://img.shields.io/badge/Projects-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
