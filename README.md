@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Generative AI Developer | 🤖 ML Enthusiast | 🧑‍💻 Full-Stack Engineer</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/aman-chaurasia-" target="_blank">LinkedIn</a> •
+  <a href="www.linkedin.com/in/aman-chaurasia-91443b263" target="_blank">LinkedIn</a> •
   <a href="mailto:aman007chaurasia@gmail.com">Email</a> •
   <a href="https://aman18-07chaurasia.netlify.app/" target="_blank">Portfolio</a> •
   <a href="https://github.com/aman18Chaurasia" target="_blank">GitHub</a>
