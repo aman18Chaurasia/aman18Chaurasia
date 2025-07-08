@@ -1,73 +1,107 @@
-<h1 align="center">Hi there 👋, I'm Aman Chaurasia</h1>
-<h3 align="center">🚀 Generative AI Developer | 🤖 ML Enthusiast | 🧑‍💻 Full-Stack Engineer</h3>
+<h1 align="center">Hey there, I'm Aman 👋</h1>
+<h3 align="center">🚀 GenAI Developer | 🧠 ML Engineer | 💻 Full-Stack Technologist</h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/aman-chaurasia-91443b263" target="_blank">LinkedIn</a> •
-  <a href="mailto:aman007chaurasia@gmail.com">Email</a> •
-  <a href="https://aman18-07chaurasia.netlify.app/" target="_blank">Portfolio</a> •
-  <a href="https://github.com/aman18Chaurasia" target="_blank">GitHub</a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=Turning+AI+dreams+into+deployable+products.;Transforming+human+behavior+via+tech.;Shipping+intelligent+apps+at+scale."/>
+</p>
+
+<p align="center">
+  <a href="mailto:aman007chaurasia@gmail.com"><img src="https://img.shields.io/badge/Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/aman-chaurasia-91443b263"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://aman18-07chaurasia.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+  <a href="https://github.com/aman18Chaurasia?tab=repositories"><img src="https://img.shields.io/badge/Projects-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-### 🧠 About Me
+### 🔍 What I Do
 
-- 🔭 Currently building AI-powered no-code apps using **Lovable**, **n8n**, and LLM APIs.
-- 💬 Passionate about behavior-aware systems, MLOps, and real-world deployment of GenAI.
-- 🚀 Exploring advanced prompt engineering, LLM chaining, and scalable AI architectures.
-- 🎯 Goal: Build tools that transform how humans interact with machines and themselves.
-
----
-
-### ⚙️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FC7300?style=flat&logo=tensorflow)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql)
+- 🧠 Build GenAI applications that understand & react to human behavior  
+- 💬 Work with LLMs, vector databases, and prompt orchestration (LangChain, n8n, Lovable)  
+- 🌐 Deploy full-stack apps using Flask, React, FastAPI, and Netlify  
+- 📦 Ship scalable pipelines with Docker, CI/CD, and AWS  
+- 🛠️ Explore no-code x low-code AI product experiences  
 
 ---
 
-### 🚀 Highlighted Projects
-
-| Project | Description |
-|--------|-------------|
-| 🧠 [Mental Health Chatbot](https://github.com/aman18Chaurasia/Mental-Health-Chatbot) | Empathetic NLP-based chatbot designed for emotional support and behavioral health. |
-| 🧲 [Caprae LeadGen Tool](https://github.com/aman18Chaurasia/caprae-leadgen-tool) | AI-powered B2B lead enrichment system built for Caprae Capital’s rapid prototype challenge. |
-| ✍️ [Origi Story Generator](https://github.com/aman18Chaurasia/origi-story-generation) | Uses GPT-based logic to generate dynamic story arcs with custom character inputs. |
-| 🧪 [Gen-Ai](https://github.com/aman18Chaurasia/Gen-Ai) | Sandbox for LLM pipelines, prompt experiments, and multi-agent orchestration. |
-| 📊 [ML Project](https://github.com/aman18Chaurasia/mlproject) | Full ML pipeline with data preprocessing, model training, and Flask deployment. |
-| 🌐 [Portfolio](https://github.com/aman18Chaurasia/Portfolio) | My personal portfolio built with React & TypeScript, deployed on Netlify. |
-
-
----
-
-### 📊 GitHub Stats
+### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aman18Chaurasia&show_icons=true&theme=github_dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aman18Chaurasia&theme=github-dark-blue" />
+  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,react,ts,js,html,css,tailwind,git,github,docker,aws,pytorch,tensorflow,sklearn,vscode,postman&perline=8" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+### 📈 GitHub Insights
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aman18Chaurasia&theme=algolia&margin-w=15" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aman18Chaurasia&show_icons=true&theme=tokyonight&hide_title=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=aman18Chaurasia&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aman18Chaurasia&theme=onedark&column=6&margin-w=10" />
 </p>
 
 ---
 
-### 📫 Connect With Me
+### 🚀 Featured Projects
 
-- 🌐 [Portfolio](https://aman18-07chaurasia.netlify.app/)
-- 📧 Email: aman007chaurasia@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/aman-chaurasia-)
+<table>
+  <tr>
+    <td width="50%">
+      <h4>🧠 Mental Health Chatbot</h4>
+      <p>NLP-powered chatbot that detects mood and provides emotionally intelligent responses. Built using Flask + ML + custom intent recognition.</p>
+      <p>
+        <a href="https://github.com/aman18Chaurasia/Mental-Health-Chatbot">
+          <img src="https://img.shields.io/badge/View Repo-blue?style=for-the-badge&logo=github" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h4>⚡ Caprae LeadGen Tool</h4>
+      <p>LLM-based tool that enriches company leads using semantic data. Built in 5 hours for Caprae Capital’s GenAI sprint.</p>
+      <p>
+        <a href="https://github.com/aman18Chaurasia/caprae-leadgen-tool">
+          <img src="https://img.shields.io/badge/View Repo-blue?style=for-the-badge&logo=github" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>📝 Origi Story Generator</h4>
+      <p>Fun project that lets users auto-generate stories with dynamic arcs using GPT and plot control logic.</p>
+      <p>
+        <a href="https://github.com/aman18Chaurasia/origi-story-generation">
+          <img src="https://img.shields.io/badge/View Repo-blue?style=for-the-badge&logo=github" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h4>🌐 Portfolio Site</h4>
+      <p>My React + TypeScript personal website, deployed with Netlify. Clean, minimal UI with smooth animations.</p>
+      <p>
+        <a href="https://github.com/aman18Chaurasia/Portfolio">
+          <img src="https://img.shields.io/badge/View Repo-blue?style=for-the-badge&logo=github" />
+        </a>
+        <a href="https://aman18-07chaurasia.netlify.app/">
+          <img src="https://img.shields.io/badge/Live Demo-brightgreen?style=for-the-badge&logo=netlify" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🌍 Let's Connect
+
+- 📨 Email: [aman007chaurasia@gmail.com](mailto:aman007chaurasia@gmail.com)  
+- 💼 LinkedIn: [www.linkedin.com/in/aman-chaurasia-91443b263](https://www.linkedin.com/in/aman-chaurasia-/)  
+- 🧠 Portfolio: [aman18-07chaurasia.netlify.app](https://aman18-07chaurasia.netlify.app/)
+
+---
+
+> ⚡ "Build useful things. Make people think. Let your code speak louder than your resume."
+
