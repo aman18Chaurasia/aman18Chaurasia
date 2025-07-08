@@ -8,7 +8,7 @@
   <a href="https://github.com/aman18Chaurasia" target="_blank">GitHub</a>
 </p>
 
----
+--- 
 
 ### 🧠 About Me
 
