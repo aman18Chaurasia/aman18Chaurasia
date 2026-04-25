@@ -1,268 +1,254 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aman%20Chaurasia&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=SDE%20%E2%80%A2%20AI%20Systems%20%E2%80%A2%20RAG%20Infrastructure%20%E2%80%A2%20Real-Time%20Pipelines&descAlignY=55&descSize=16" width="100%"/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20,2,24&height=200&section=header&text=AMAN%20CHAURASIA&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=55&stroke=A855F7&strokeWidth=2" width="100%"/>
+</div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&multiline=false&width=700&lines=Architected+RAG+platform+%E2%80%94+sub-500ms+P95+latency+%E2%9A%A1;Built+call+AI+with+99%25%2B+uptime+across+200%2B+users+%F0%9F%94%A5;95-98%25+detection+accuracy+in+production+%F0%9F%8E%AF;Reduced+pipeline+latency+by+2300ms+%F0%9F%9A%80;Hackathon+winner+%E2%80%94+IIIT+Hyd+%C3%97+IIT+Madras+%F0%9F%8F%86" alt="Typing SVG"/>
-
-<br/>
-
-[![](https://visitcount.itsvg.in/api?id=aman18Chaurasia&icon=6&color=9)](https://visitcount.itsvg.in)
-
-<br/>
-
-[![Email](https://img.shields.io/badge/Gmail-aman007chaurasia-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aman007chaurasia@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-chaurasia-91443b263/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://aman18-07chaurasia.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-aman18Chaurasia-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aman18Chaurasia)
-
-</div>
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=80%" />
-</div>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/> &nbsp; Currently Shipping
-
-```yaml
-Role    : Software Development Engineer
-Company : Darwix AI  ·  Gurugram, India
-Since   : September 2025  ·  Present
-Domain  : Real-Time AI  ·  Call Intelligence  ·  RAG  ·  LLM Infrastructure
-Status  : 🟢 Active  —  building systems that run in production, not just demos
+```
+╔══════════════════════════════════════════════════════════════════╗
+║   SDE @ Darwix AI  ·  RAG  ·  LLMs  ·  Real-Time AI Systems    ║
+║         Building AI that survives production — not just demos    ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2200&pause=700&color=A855F7&center=true&vCenter=true&width=750&lines=%E2%9A%A1+Real-time+call+AI+pipeline+%E2%80%94+99%25%2B+uptime+in+production;%F0%9F%8E%AF+95-98%25+detection+accuracy+%C3%97+200%2B+concurrent+users;%F0%9F%94%8D+Hybrid+RAG+%E2%80%94+sub-500ms+P95+latency+%C3%97+zero+data+leakage;%F0%9F%9A%80+Cut+pipeline+latency+by+2300ms+via+async+%2B+Redis+batching;%F0%9F%8F%86+1%C2%B0+%40+Felicity+2025+%28IIIT+Hyd%29+%C3%97+Big+Biz+Theory+%28IIT+Madras%29" alt="Typing SVG" />
 
-### ⚡ Production Metrics
-
-| Metric | Value |
-|:---|:---|
-| 🟢 System Uptime | **99%+** — real-time AI call pipeline |
-| 🎯 Detection Accuracy | **95–98%** — Objection Detection Engine |
-| ⚡ P95 Query Latency | **< 500ms** — multi-tenant RAG platform |
-| 👥 Concurrent Users | **200+** — production load |
-| 📉 False Positive Reduction | **30–40%** — NLP + LLM validation |
-| 🚀 Latency Reduced | **200–2300ms** — async pipeline optimization |
-| 🔒 Cross-tenant Data Leakage | **Zero** — JWT + namespace isolation |
-| 🗂️ ETL Processing Time | **−80%** — Airflow parallel DAGs |
-| 🧠 ML Accuracy Gain | **+15%** — feature engineering & selection |
-| ⏱️ Query Response Time | **−30%** — LangChain + distributed indexing |
-
-</div>
-
----
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"/> &nbsp; Tech Arsenal
-
-<div align="center">
-
-**Core Languages**
-
-[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,js,ts,bash,sql&perline=8)](https://skillicons.dev)
-
-**AI · ML · RAG**
-
-[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&perline=8)](https://skillicons.dev)
-
-`LangChain` &nbsp; `FAISS` &nbsp; `ChromaDB` &nbsp; `BM25` &nbsp; `Embeddings` &nbsp; `RAG` &nbsp; `LLMs` &nbsp; `NLP` &nbsp; `Vector Search` &nbsp; `Hybrid Retrieval`
-
-**Backend & System Design**
-
-[![My Skills](https://skillicons.dev/icons?i=fastapi,django,flask&perline=8)](https://skillicons.dev)
-
-`WebSockets` &nbsp; `Microservices` &nbsp; `Distributed Systems` &nbsp; `Streaming Architectures` &nbsp; `REST APIs`
-
-**Databases**
-
-[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,elasticsearch&perline=8)](https://skillicons.dev)
-
-**DevOps · Cloud · Observability**
-
-[![My Skills](https://skillicons.dev/icons?i=docker,aws,nginx,github,linux,git&perline=8)](https://skillicons.dev)
-
-`AWS ECS` &nbsp; `AWS EKS` &nbsp; `Apache Airflow` &nbsp; `New Relic` &nbsp; `Grafana` &nbsp; `CI/CD` &nbsp; `GitHub Actions`
-
-**Frontend**
-
-[![My Skills](https://skillicons.dev/icons?i=react,ts,html,css,tailwind,netlify&perline=8)](https://skillicons.dev)
-
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"/> &nbsp; Projects
-
-<details>
-<summary><b>🔴 &nbsp; Real-Time AI Call Intelligence Pipeline &nbsp;—&nbsp; Darwix AI (Production)</b></summary>
 <br/>
 
-> Audio ingestion → STT transcription → NLP → live agent nudges — all in real time.
-
-**Stack:** `Python` `FastAPI` `WebSockets` `NLP` `Docker` `New Relic` `Grafana`
-
-- **99%+ system uptime** — production system, not a POC
-- Resolved 12–15 production issues: duplicate outputs, transcript instability, speaker misclassification
-- Evaluated Deepgram & ElevenLabs — identified **30–50% latency reduction** opportunity
-- Monitored via New Relic + Grafana with automated CI/CD
-
-</details>
-
-<details>
-<summary><b>🟣 &nbsp; Multi-Tenant RAG Platform &nbsp;—&nbsp; Darwix AI (Production)</b></summary>
-<br/>
-
-> Production-grade knowledge retrieval platform. Two-service microservices architecture behind Nginx.
-
-**Stack:** `FAISS` `ChromaDB` `BM25` `Nginx` `Docker Compose` `AWS ECS` `AWS EKS` `JWT` `MongoDB` `Redis`
-
-- **Sub-500ms P95 query latency** across all tenants
-- Hybrid retrieval: dense vector (FAISS + ChromaDB) + BM25 keyword at **60/40 weighted fusion** + recursive chunking
-- Multi-tenant isolation: JWT company ID, per-company vector namespaces, metadata-filtered retrieval, session ownership validation — **zero cross-tenant data leakage**
-- Real-time call-memory: Redis session state + running summaries + transcript windowing → eliminated redundant LLM calls
-
-</details>
-
-<details>
-<summary><b>🟠 &nbsp; Hybrid Objection Detection Engine &nbsp;—&nbsp; Darwix AI (Production)</b></summary>
-<br/>
-
-> NLP + semantic similarity + LLM validation — three-layer detection stack.
-
-**Stack:** `Python` `NLP` `Semantic Search` `LLM Validation`
-
-- **95–98% detection accuracy** in production
-- **30–40% fewer false positives** vs. keyword-only baseline
-- Handles **200+ concurrent users**
-
-</details>
-
-<details>
-<summary><b>🟢 &nbsp; CivicBriefs.ai — Distributed Study Platform</b></summary>
-<br/>
-
-> Scalable study platform with automated news-to-syllabus mapping. 100+ active users.
-
-**Stack:** `Python` `Django` `PostgreSQL` `Docker` `Linux`
-
-[![Repo](https://img.shields.io/badge/GitHub-CivicBriefs--AI-181717?style=flat-square&logo=github)](https://github.com/aman18Chaurasia/CivicBriefs-AI)
-
-- Graph algorithms + collaborative filtering for dynamic topic mapping
-- **45% faster** DB queries — hash-based O(1) retrieval + graph traversal
-- Dynamic programming for adaptive quiz generation
-- Containerized on Linux with Docker; shell-scripted backups + integration tests
-
-</details>
-
-<details>
-<summary><b>🔵 &nbsp; NASA APOD ETL Pipeline</b></summary>
-<br/>
-
-> Distributed ETL pipeline with Airflow DAGs, parallel execution, and fault tolerance.
-
-**Stack:** `Python` `Apache Airflow` `PostgreSQL` `Linux` `GitHub Actions`
-
-[![Repo](https://img.shields.io/badge/GitHub-airflow--nasa--etl-181717?style=flat-square&logo=github)](https://github.com/aman18Chaurasia/airflow-nasa-etl-pipeline)
-
-- **80% reduction** in total processing time via parallel DAG execution
-- Fault-tolerant: automated retries, structured error handling, data validation
-- CI/CD via GitHub Actions + shell scripting
-
-</details>
-
-<details>
-<summary><b>⚪ &nbsp; More Projects</b></summary>
-<br/>
-
-| Project | Description | Repo |
-|---|---|---|
-| Mental Health Chatbot | NLP mood detection + emotionally-aware responses | [![](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/aman18Chaurasia/Mental-Health-Chatbot) |
-| Caprae LeadGen Tool | Semantic search + LLM lead enrichment (hackathon sprint) | [![](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/aman18Chaurasia/caprae-leadgen-tool) |
-| Origi Story Generator | Plot-controlled story generation with dynamic arcs using GPT | [![](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/aman18Chaurasia/origi-story-generation) |
-| Portfolio Site | React + TypeScript — deployed to Netlify | [![](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/aman18Chaurasia/Portfolio) [![](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify)](https://aman18-07chaurasia.netlify.app/) |
-
-</details>
-
----
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28" style="margin-bottom: -5px;"/> &nbsp; GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aman18Chaurasia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9&include_all_commits=true&count_private=true" height="170"/>
+[![Gmail](https://img.shields.io/badge/-aman007chaurasia@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aman007chaurasia@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-aman--chaurasia-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-chaurasia-91443b263/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://aman18-07chaurasia.netlify.app/)
 &nbsp;
-<img src="https://streak-stats.demolab.com?user=aman18Chaurasia&theme=tokyonight&hide_border=true&background=0d1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" height="170"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman18Chaurasia&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9&langs_count=8" height="180"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aman18Chaurasia&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A855F7&line=A855F7&point=ffffff&area=true" width="95%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=aman18Chaurasia&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" width="95%"/>
+[![](https://visitcount.itsvg.in/api?id=aman18Chaurasia&label=Profile%20Views&color=9&icon=6&pretty=false)](https://visitcount.itsvg.in)
 
 </div>
-
----
-
-## 🏆 &nbsp; Wins
-
-<div align="center">
-
-| 🥇 Hackathon | Host | |
-|:---:|:---:|:---:|
-| **Felicity 2025** | IIIT Hyderabad | National-level · working software delivered under time pressure |
-| **The Big Biz Theory** | IIT Madras | National-level · working software delivered under time pressure |
-
-*Won twice. Both times shipped something real.*
-
-</div>
-
----
-
-## 📍 &nbsp; Experience
-
-```
-📅  Sept 2025 – Present    │  Software Development Engineer  │  Darwix AI        │  Gurugram, India
-📅  July 2025 – Sept 2025  │  Data Science Intern            │  Krutanic Solutions│  Bangalore, India
-🎓  Nov  2022 – May  2026  │  B.Tech CSE                     │  IIIT Raichur     │  Raichur, India
-🎖️  2023 – 2025            │  Cultural Secretary             │  IIIT Raichur     │  Led 15-member team · 500+ students · 10+ events
-```
-
----
-
-## 💬 &nbsp; What I'm After
-
-<div align="center">
-
-```
-✅  SDE / AI Engineer  —  companies building real AI infrastructure, not wrappers
-✅  Backend-heavy  —  RAG systems, LLM pipelines, real-time architectures
-✅  Teams that care about latency, reliability, correctness in production
-✅  Full-time  ·  Contract  ·  Founding Engineer conversations welcome
-```
-
-</div>
-
----
-
-<div align="center">
-
-**Let's build something worth running in production.**
-
-[![Email Me](https://img.shields.io/badge/Email%20Me-aman007chaurasia@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aman007chaurasia@gmail.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-chaurasia-91443b263/)
 
 <br/>
+
+---
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### `whoami`
+
+```python
+class AmanChaurasia:
+    role     = "SDE @ Darwix AI"
+    location = "Gurugram, India"
+    school   = "IIIT Raichur · B.Tech CSE '26"
+    focus    = ["Real-Time AI", "RAG Infra",
+                "LLM Systems", "Backend Eng"]
+
+    wins = [
+        "🥇 Felicity 2025  — IIIT Hyderabad",
+        "🥇 Big Biz Theory — IIT Madras",
+    ]
+
+    currently_shipping = """
+        Multi-tenant RAG platform  ·  sub-500ms P95
+        AI call intelligence       ·  99%+ uptime
+        Objection detection engine ·  95-98% accuracy
+    """
+
+    open_to = "SDE / AI Eng · Full-time · Contract"
+```
+
+</td>
+<td width="45%" valign="top">
+
+### Live Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=aman18Chaurasia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9&count_private=true&include_all_commits=true" width="100%"/>
+
+<img src="https://streak-stats.demolab.com?user=aman18Chaurasia&theme=tokyonight&hide_border=true&background=0d1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=c9d1d9" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+### Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aman18Chaurasia/aman18Chaurasia/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aman18Chaurasia/aman18Chaurasia/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/aman18Chaurasia/aman18Chaurasia/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+</picture>
+</div>
+
+> **Setup:** Create `.github/workflows/snake.yml` in this repo — see [Platane/snk](https://github.com/Platane/snk) to activate the snake animation above.
+
+---
+
+### What I Ship at Darwix AI
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+**🔴 Call Intelligence Pipeline**
+
+`FastAPI` · `WebSockets` · `NLP`
+
+99%+ uptime<br/>Resolved 12–15 prod issues<br/>Audio → STT → NLP → nudges
+
+</td>
+<td align="center" width="33%">
+
+**🟣 Multi-Tenant RAG Platform**
+
+`FAISS` · `ChromaDB` · `BM25`
+
+sub-500ms P95<br/>60/40 hybrid weighted fusion<br/>Zero cross-tenant leakage
+
+</td>
+<td align="center" width="33%">
+
+**🟠 Objection Detection Engine**
+
+`NLP` · `Semantic Search` · `LLM`
+
+95–98% accuracy<br/>30–40% fewer false positives<br/>200+ concurrent users
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+### Stack
+
+<div align="center">
+
+<table>
+<tr><td align="center"><b>AI · ML · RAG</b></td><td align="center"><b>Backend</b></td><td align="center"><b>Cloud · DevOps</b></td></tr>
+<tr>
+<td align="center">
+
+[![](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,python)](https://skillicons.dev)
+
+`LangChain` `FAISS` `ChromaDB`<br/>`BM25` `RAG` `LLMs` `NLP`<br/>`Embeddings` `Vector Search`
+
+</td>
+<td align="center">
+
+[![](https://skillicons.dev/icons?i=fastapi,django,flask,redis)](https://skillicons.dev)
+
+`WebSockets` `Microservices`<br/>`Streaming Arch` `REST APIs`<br/>`PostgreSQL` `MongoDB` `ES`
+
+</td>
+<td align="center">
+
+[![](https://skillicons.dev/icons?i=docker,aws,nginx,github)](https://skillicons.dev)
+
+`AWS ECS` `AWS EKS` `Airflow`<br/>`New Relic` `Grafana` `CI/CD`<br/>`Linux` `Bash` `Git`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+### Projects
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[CivicBriefs.ai](https://github.com/aman18Chaurasia/CivicBriefs-AI)** — Distributed Study Platform
+
+`Django` `PostgreSQL` `Docker` `Linux`
+
+- Graph algorithms + collaborative filtering
+- **45% faster** DB queries — O(1) hash retrieval
+- 100+ active users · Dockerized · shell-automated
+
+</td>
+<td width="50%" valign="top">
+
+**[NASA APOD ETL Pipeline](https://github.com/aman18Chaurasia/airflow-nasa-etl-pipeline)**
+
+`Airflow` `PostgreSQL` `GitHub Actions`
+
+- **80% reduction** in processing time
+- Parallel DAG execution + fault-tolerant retries
+- Full CI/CD via GitHub Actions
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Mental Health Chatbot](https://github.com/aman18Chaurasia/Mental-Health-Chatbot)**
+
+`Python` `NLP`
+
+- Mood detection + emotionally-aware responses
+- NLP-driven conversational flow
+
+</td>
+<td width="50%" valign="top">
+
+**[Caprae LeadGen Tool](https://github.com/aman18Chaurasia/caprae-leadgen-tool)**
+
+`Python` `LLMs` `Semantic Search`
+
+- Built during a GenAI hackathon sprint
+- Lead enrichment via semantic search + LLMs
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+### Analytics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aman18Chaurasia&theme=tokyonight" width="95%"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aman18Chaurasia&theme=tokyonight" height="150"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aman18Chaurasia&theme=tokyonight" height="150"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aman18Chaurasia&theme=tokyonight" height="150"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aman18Chaurasia&theme=tokyonight&utcOffset=5.5" height="150"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aman18Chaurasia&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A855F7&line=A855F7&point=ffffff&area=true&area_color=A855F7" width="95%"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=aman18Chaurasia&theme=tokyonight&no-frame=true&column=7&margin-w=6" width="95%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+**Available for SDE / AI Engineer roles · Full-time · Contract · Founding Eng**
+
+[![Email](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aman007chaurasia@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-chaurasia-91443b263/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=netlify&logoColor=white)](https://aman18-07chaurasia.netlify.app/)
 
 *The resume says what I've built. The repos show how I think.*
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,2,24&height=100&section=footer&animation=twinkling" width="100%"/>
