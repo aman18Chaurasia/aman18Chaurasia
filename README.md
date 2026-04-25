@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="280" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+    <img width="300" src="https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif"/>
     <br/><br/>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=620&height=60&lines=Hey+there!+I%27m+Aman+Chaurasia+%F0%9F%91%8B" alt="Typing SVG"/>
 </div>
