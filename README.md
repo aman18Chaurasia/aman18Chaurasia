@@ -23,37 +23,43 @@ I'm a **Software Development Engineer** building real-time AI systems, distribut
 
 I care about shipping AI that survives production — not just demo night. Currently deep in real-time call intelligence, hybrid retrieval, and multi-tenant RAG infrastructure.
 
-```python
-aman_chaurasia = {
-    "role":     "SDE @ Darwix AI",
-    "location": "Gurugram, India",
-    "school":   "IIIT Raichur · B.Tech CSE · 2026",
+| | |
+|:---|:---|
+| 🏢 **Role** | SDE @ Darwix AI · Gurugram, India |
+| 🎓 **School** | IIIT Raichur · B.Tech CSE · 2026 |
+| 🌱 **Learning** | System Design · MLOps · Advanced RAG |
+| 💬 **Ask me about** | LLMs · RAG · FastAPI · Real-time AI pipelines |
 
-    "languages": {
-        "primary":   ["Python", "SQL", "Bash"],
-        "secondary": ["Java", "C++", "JavaScript"],
-    },
+<br/>
 
-    "ai_ml": {
-        "frameworks": ["PyTorch", "TensorFlow", "scikit-learn", "LangChain"],
-        "rag":        ["FAISS", "ChromaDB", "BM25", "Hybrid Retrieval", "Embeddings"],
-        "llm":        ["LLM Integration", "NLP", "Vector Search", "Prompt Engineering"],
-    },
+**Languages** &nbsp;&nbsp;
+`Python` `SQL` `Bash` `Java` `C++` `JavaScript`
 
-    "backend":   ["FastAPI", "Django", "WebSockets", "Microservices", "Streaming"],
-    "databases": ["PostgreSQL", "MongoDB", "Redis", "ElasticSearch"],
-    "devops":    ["Docker", "AWS ECS", "AWS EKS", "Nginx", "Airflow", "CI/CD"],
-    "observe":   ["New Relic", "Grafana"],
+**AI / ML** &nbsp;&nbsp;
+`PyTorch` `TensorFlow` `scikit-learn` `LangChain` `FAISS` `ChromaDB` `BM25` `Embeddings`
 
-    "in_production": {
-        "uptime":             "99%+",
-        "p95_latency":        "<500ms",
-        "detection_accuracy": "95-98%",
-        "concurrent_users":   "200+",
-        "latency_cut":        "2300ms",
-    },
-}
-```
+**Backend** &nbsp;&nbsp;
+`FastAPI` `Django` `WebSockets` `Microservices` `Streaming`
+
+**Databases** &nbsp;&nbsp;
+`PostgreSQL` `MongoDB` `Redis` `ElasticSearch`
+
+**DevOps** &nbsp;&nbsp;
+`Docker` `AWS ECS` `AWS EKS` `Nginx` `Airflow` `CI/CD` `New Relic` `Grafana`
+
+<br/>
+
+<div align="center">
+
+| ⚡ Metric | 📊 Value |
+|:---|:---:|
+| System Uptime | **99%+** |
+| P95 Query Latency | **< 500ms** |
+| Detection Accuracy | **95 – 98%** |
+| Concurrent Users | **200+** |
+| Latency Reduced | **2300ms** |
+
+</div>
 
 ---
 
@@ -97,20 +103,9 @@ aman_chaurasia = {
 <br/>
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aman18Chaurasia&theme=tokyonight" width="92%"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aman18Chaurasia&theme=tokyonight" height="150"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aman18Chaurasia&theme=tokyonight" height="150"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aman18Chaurasia&theme=tokyonight" height="150"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aman18Chaurasia&theme=tokyonight&utcOffset=5.5" height="150"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=aman18Chaurasia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" height="140"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aman18Chaurasia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&include_all_commits=true" height="150"/>
 &nbsp;
-<img src="https://streak-stats.demolab.com?user=aman18Chaurasia&theme=tokyonight&hide_border=true&background=0d1117&ring=cba6f7&fire=cba6f7&currStreakLabel=cba6f7" height="140"/>
+<img src="https://streak-stats.demolab.com?user=aman18Chaurasia&theme=tokyonight&hide_border=true&background=0d1117&ring=cba6f7&fire=cba6f7&currStreakLabel=cba6f7" height="150"/>
 
 </div>
 </details>
