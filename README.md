@@ -103,7 +103,7 @@ I care about shipping AI that survives production — not just demo night. Curre
 <br/>
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aman18Chaurasia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&include_all_commits=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aman18Chaurasia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" height="150"/>
 &nbsp;
 <img src="https://streak-stats.demolab.com?user=aman18Chaurasia&theme=tokyonight&hide_border=true&background=0d1117&ring=cba6f7&fire=cba6f7&currStreakLabel=cba6f7" height="150"/>
 
